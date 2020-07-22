@@ -1,0 +1,55 @@
+.tombol{
+   background-color: lightslategray;
+   color: white;
+   border-radius: 10px;
+   margin: 0 auto;
+   /* margin-top: 7px; */
+   /* height: 30px; */
+}
+.about{
+   height: auto;
+   background-color: rgb(41, 42, 43);
+   color: rgb(236, 232, 232);
+   /* display: flex; */
+   justify-content: center;
+   align-items: center;
+}
+.fitur{
+   box-sizing: border-box;
+   background-color: rgb(90, 91, 92);
+   color: rgb(236, 232, 232);
+   height: auto;
+   margin-top: -32px;
+   /* display: flex; */
+   justify-content: center;
+   align-items: center;
+}
+.kartu{
+   /* display: flex; */
+   justify-content: space-evenly;
+   align-items: center;
+}
+.card{
+   margin-top: 30px;
+   border-radius: 10px;
+   background-color: rgb(41, 42, 43);
+   color: rgb(236, 232, 232);
+}
+footer{
+   height: 64px;
+   margin-top: -32px;
+   padding-top: 23px;
+   background-color: rgb(41, 42, 43);
+   color: rgb(236, 232, 232);
+}
+.dataUser{
+   color: white !important;
+}
+.calon{
+   margin-top: -35px !important;
+   background-color: rgb(41, 42, 43);
+   color: rgb(236, 232, 232);
+   /* display: flex; */
+   justify-content: center;
+   align-items: center;
+}
